@@ -1,6 +1,3 @@
-# Customer-Churn-Prediction
-Machine learning project predicting telecom customer churn
-
 # Customer Churn Prediction
 
 Machine learning project predicting telecom customer churn using logistic regression and random forest models.
